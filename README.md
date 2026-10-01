@@ -1,132 +1,105 @@
-<img src="https://capsule-render.vercel.app/api?type=slice&color=0:071a17,100:0f766e&height=230&section=header&text=Ayo%20%28Fabulous%29%20Adegbulu&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Software%20Engineer%20%7C%20Computational%20Geophysics%20Background&descSize=17&descAlignY=70" width="100%" alt="Ayo (Fabulous) Adegbulu" />
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:071a17,100:0f766e&height=220&section=header&text=Ayo%20%28Fabulous%29%20Adegbulu&fontSize=40&fontColor=ffffff&animation=fadeIn&desc=Software%20Engineer&descSize=18&descAlignY=68" width="100%" alt="Ayo (Fabulous) Adegbulu, Software Engineer" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=1200&color=2DD4BF&center=true&vCenter=true&width=750&lines=Software+Engineer;React+%7C+Next.js+%7C+TypeScript;Laravel+%7C+PHP+%7C+Node.js;From+Geophysics+to+Software+Engineering" alt="Software Engineer, React, Next.js, TypeScript, Laravel, PHP and Node.js" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1200&color=2DD4BF&center=true&vCenter=true&width=700&lines=Software+Engineer;React+%7C+Next.js+%7C+TypeScript;Laravel+%7C+PHP+%7C+Node.js;Building+web+applications+from+the+frontend+to+the+API" alt="Software Engineer, React, Next.js, TypeScript, Laravel, PHP and Node.js" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Profile%20views-1%2C100%2B-0f766e?style=flat-square" alt="1,100+ profile views" />
-  <img src="https://img.shields.io/badge/Location-Lagos%2C%20Nigeria-115e59?style=flat-square" alt="Lagos, Nigeria" />
+  <img src="https://komarev.com/ghpvc/?username=Fabulousjay&label=Profile%20views&color=0f766e&style=flat" alt="Profile views" />
 </p>
-
-<br>
 
 ## Hey, I'm Ayo 👋🏾
 
-I'm a software engineer who started out in **geophysics** and somehow ended up spending most of my time building web applications.
+I'm a software engineer who mostly works on the frontend, building web applications with React, Next.js and TypeScript.
 
-React, Next.js and TypeScript are what I use most on the frontend. I also work with Laravel, PHP and Node.js on the backend, especially when I need to understand what is happening beyond the API response.
+I also work with Laravel, PHP and Node.js on the backend, so I'm comfortable going beyond the UI and understanding how the data, API and business logic fit together.
 
-My interest in programming actually started from the computational side of geophysics.
+I originally studied Applied Geophysics. Somewhere along the way, I got more interested in the data modelling and computational side of the field, which eventually pulled me into programming.
 
-I was more interested in what you could do with the data than just collecting it. Things like **data modelling, numerical methods, computational geophysics and turning physical problems into something a computer could process** caught my attention.
+I've been building software professionally since 2021.
 
-That was the part of geophysics that pushed me towards programming.
+## What I work on
 
-I eventually realised I enjoyed building the systems around data just as much as working with the data itself, and that's what led me into software engineering.
+I enjoy building applications where the UI has to deal with more than just displaying data.
 
-<br>
+Things like:
 
-## What I build
+• Role based dashboards
+• Complex forms and workflows
+• Financial and operational data
+• API integrations
+• Data heavy interfaces
+• Tables, filters and analytics
+• State management
+• Business rules that actually affect what users can do
 
-Most of my work has been around **dashboards, internal tools and data heavy web applications**.
-
-I like working on interfaces where the frontend is not just displaying information, but actually has to understand what is happening underneath.
-
-That usually means dealing with things like:
-
-* Complex API states
-* Role based permissions
-* Financial data
-* Tables and analytics
-* Multi step workflows
-* Real time or asynchronous updates
-* Forms with a lot of business rules
-* APIs that do not always behave exactly as expected
-
-I tend to spend a lot of time figuring out how the data moves through a system before worrying about making the screen look pretty.
-
-<br>
+I care a lot about what happens between the API and the screen. If the backend says one thing and the interface shows another, something is wrong.
 
 ## Selected work
 
 ### Zenthom
 
-A facility maintenance platform with separate experiences for HQ, facility managers and customers.
+A facility maintenance platform with separate dashboards for HQ, facility managers and customers.
 
-I built the frontend from the Figma designs through to production, including all three dashboards.
+I built the frontend from the Figma designs through to production, covering all three dashboards.
 
-The interesting part was the amount of state behind what looks like a fairly simple interface.
+A big part of the work was handling the different states behind service requests, invoices and payments.
 
-Service requests move through different states such as pending, assigned, in progress, completed and cancelled. Invoices have their own lifecycle, and payments can happen either through an internal wallet or through card payments confirmed later by a webhook.
+Service requests can move from pending to assigned, in progress, completed or cancelled. Invoices have their own lifecycle, while payments can happen through an internal wallet or through card payments confirmed later by a webhook.
 
-So the frontend could not just assume that a button click meant something had happened.
-
-I worked closely with the backend engineer around the API contracts for **140+ endpoints**, tested endpoints in Postman before integrating them and deliberately tested invalid IDs, missing data and other cases instead of only checking the happy path.
+I also worked with the backend engineer to define contracts for 140+ endpoints and tested the API in Postman before connecting it to the UI.
 
 **Stack:** React, TypeScript, Redux Toolkit, React Query, Tailwind CSS
 
-[![Visit Zenthom](https://img.shields.io/badge/zenthom.com-0f766e?style=for-the-badge\&logo=google-chrome\&logoColor=white)](https://www.zenthom.com/)
-
-<br>
+<a href="https://www.zenthom.com/">
+  <img src="https://img.shields.io/badge/Visit_Zenthom-0f766e?style=for-the-badge" alt="Visit Zenthom" />
+</a>
 
 ### Hutstack
 
 A property management application for landlords and property managers.
 
-I led the frontend work across lease tracking, maintenance records and financial analytics. I also worked on the marketing website.
+I led the frontend work across lease tracking, maintenance records and financial analytics.
 
-The analytics side involved building reusable charts and handling the data needed to turn property and financial records into something people could actually use.
+I also worked on the marketing website and built reusable components for the analytics side of the application.
 
 **Stack:** React, TypeScript, Redux Toolkit, ShadCN UI
 
-[![Visit Hutstack](https://img.shields.io/badge/hutstack.com-115e59?style=for-the-badge\&logo=google-chrome\&logoColor=white)](https://hutstack.com/)
-
-<br>
+<a href="https://hutstack.com/">
+  <img src="https://img.shields.io/badge/Visit_Hutstack-115e59?style=for-the-badge" alt="Visit Hutstack" />
+</a>
 
 ### Hivedeck
 
-Before Zenthom and Hutstack, I spent about three years at Wazobia Technologies.
+Before Zenthom and Hutstack, I spent three years at Wazobia Technologies.
 
-One of the bigger things I worked on was the template engine for **Hivedeck**, a no code website builder used by 500+ businesses.
+I worked on Hivedeck, a no code website builder used by 500+ businesses, where I designed and built parts of the template engine that allowed users to customise websites without writing code.
 
-That work involved building the systems that allowed users to customise templates without needing to touch the underlying code.
+That was one of the projects that pushed me to think more about how systems work behind the interface, rather than just the pages users see.
 
-It was probably one of the projects that taught me the most about thinking beyond individual pages and looking at the system behind them.
+## How I approach development
 
-<br>
+I like understanding the data before building the interface around it.
 
-## Geophysics → Software
+When I get an API, I check what it actually returns instead of assuming the documentation tells the whole story.
 
-My degree is in **Applied Geophysics**, but the part of it that stuck with me was the computational side.
+I test valid and invalid IDs, missing data, empty responses and different states before wiring things into the UI.
 
-Geophysics is basically a giant data problem.
+The goal is simple: the interface should reflect what the system is actually doing.
 
-You collect measurements, model the subsurface, work with imperfect data and use mathematical or computational methods to make sense of something you cannot directly see.
+I'm also putting more time into automated testing, particularly Cypress.
 
-That introduced me to things like:
+## A little more about me
 
-**Data modelling**
-Representing physical systems and measurements in a way that can actually be processed and analysed.
+I came into software from a slightly unusual direction.
 
-**Computational geophysics**
-Using numerical and computational methods to solve problems that are difficult or impossible to handle manually.
+My degree is in Applied Geophysics, but I found myself enjoying the parts that involved working with data, modelling and computational problems. Programming gave me a way to explore that interest further, and eventually became the thing I wanted to do full time.
 
-**Numerical methods**
-Turning mathematical models into algorithms that a computer can actually run.
+Now most of my problems are web applications instead of subsurface models.
 
-**Data interpretation**
-Looking at large amounts of information and trying to extract something useful from it.
+Fair trade.
 
-Programming became interesting to me because it gave me a way to build those computational systems myself.
-
-I eventually moved from asking *"what does this data tell us about the subsurface?"* to asking *"how do I build a system that can process, model and present this data?"*
-
-That shift is basically how I ended up here.
-
-<br>
-
-## My stack
+## Tech I use
 
 ### Languages
 
@@ -134,41 +107,11 @@ That shift is basically how I ended up here.
   <img src="https://skillicons.dev/icons?i=js,ts,php,html,css&theme=dark" alt="JavaScript, TypeScript, PHP, HTML and CSS" />
 </p>
 
-### Frameworks, libraries & tools
+### Frameworks, libraries and tools
 
 <p>
   <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,nodejs,laravel,postgres,mysql,git,docker,figma&theme=dark" alt="React, Next.js, Redux, Tailwind, Node.js, Laravel, PostgreSQL, MySQL, Git, Docker and Figma" />
 </p>
-
-<br>
-
-## How I work
-
-I usually start with the data.
-
-Before I build a screen, I want to know what the API actually returns, what can change, what can fail and what the different users are allowed to do.
-
-I test the endpoint before I connect it to the UI.
-
-Wrong IDs. Missing records. Empty responses. Duplicate requests. Unexpected states.
-
-Because if the frontend only works when everything goes right, it doesn't really work.
-
-I'm also spending more time on automated testing at the moment, particularly **Cypress**.
-
-<br>
-
-## Currently
-
-I'm focused on getting better at the parts of software engineering that sit beyond just building interfaces.
-
-That means more backend work, testing, system design and understanding how the different pieces of an application fit together.
-
-The frontend is still where I spend most of my time though.
-
-That's probably not changing anytime soon.
-
-<br>
 
 ## Find me
 
@@ -182,10 +125,4 @@ That's probably not changing anytime soon.
   <a href="https://github.com/Fabulousjay">
     <img src="https://img.shields.io/badge/GitHub-071a17?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-</p>
-
-<br>
-
-<p align="center">
-  <i>Still figuring things out. Still building.</i>
 </p>
