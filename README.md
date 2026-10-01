@@ -1,24 +1,24 @@
-<img src="https://capsule-render.vercel.app/api?type=slice&color=0:0b1f1c,100:0f766e&height=220&section=header&text=Ayo%20Adegbulu&fontSize=46&fontColor=ffffff&animation=fadeIn&desc=Software%20Engineer&descSize=18&descAlignY=68" width="100%" alt="Ayo Adegbulu, Software Engineer" />
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:0b1f1c,100:0f766e&height=220&section=header&text=Ayo%20%28Fabulous%29%20Adegbulu&fontSize=40&fontColor=ffffff&animation=fadeIn&desc=Software%20Engineer&descSize=18&descAlignY=68" width="100%" alt="Ayo (Fabulous) Adegbulu, Software Engineer" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1200&color=F59E0B&center=true&vCenter=true&width=700&lines=Software+Engineer;React%2C+Next.js+and+TypeScript;Laravel+and+PHP+on+the+backend;Role-based+dashboards+built+from+scratch" alt="Software Engineer. React, Next.js and TypeScript. Laravel and PHP on the backend." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1200&color=2DD4BF&center=true&vCenter=true&width=700&lines=Software+Engineer;React%2C+Next.js+and+TypeScript;Laravel+and+PHP+on+the+backend;Role-based+dashboards+built+from+scratch" alt="Software Engineer. React, Next.js and TypeScript. Laravel and PHP on the backend." />
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Fabulousjay&label=Profile%20views&color=0f766e&style=flat" alt="Profile views" />
 </p>
 
-I am Ayo, a software engineer who works mostly on the frontend. React, Next.js and TypeScript are what I reach for first. I also write backend code in Laravel (PHP) and Node, so I can work on both sides of an API and speak to the backend team in their own terms.
+I am Ayo (Fabulous), a software engineer who works mostly on the frontend. React, Next.js and TypeScript are what I reach for first. I also write backend code in Laravel (PHP) and Node, so I can work on both sides of an API and speak to the backend team in their own terms.
 
 I studied geophysics, which is how I got into programming, and I have been building web applications professionally since 2021.
 
 ## Selected work
 
-**Zenthom** is a facility maintenance platform, and I am the only frontend developer on it. I built all three dashboards (HQ, facility managers and customers) from the Figma designs.
+**Zenthom** is a facility maintenance platform. I built its entire frontend on my own: three dashboards (HQ, facility managers and customers) from the Figma designs through to production.
 
-The hard part is the state and the money. A service request moves through pending, assigned, in progress, completed or cancelled, and invoices have their own cycle of draft, sent, awaiting payment, paid or cancelled. Payment arrives in two ways, a wallet transfer inside the platform or a card payment confirmed later by a webhook, so the interface has to stay correct for changes it did not cause directly.
+The hard part was the state and the money. A service request moves through pending, assigned, in progress, completed or cancelled, and invoices have their own cycle of draft, sent, awaiting payment, paid or cancelled. Payment arrives in two ways, a wallet transfer inside the platform or a card payment confirmed later by a webhook, so the interface had to stay correct for changes it did not cause directly.
 
-The backend was built in parallel, so much of my work has been proving what the API actually does instead of trusting the documentation. I test every new endpoint in Postman with real and deliberately invalid ids before I wire it, and I have found real bugs that way. I also agreed contracts for 140+ endpoints with the backend engineer, including which role can edit what.
+The backend was built in parallel, so much of my work was proving what the API actually did instead of trusting the documentation. I tested every new endpoint in Postman with real and deliberately invalid ids before I wired it, and I found real bugs that way. I also agreed contracts for 140+ endpoints with the backend engineer, including which role can edit what.
 
 Stack: React, TypeScript, Redux Toolkit, React Query, Tailwind. [zenthom.com](https://www.zenthom.com/)
 
@@ -47,4 +47,4 @@ I am putting more time into testing right now, mainly Cypress.
 ## Find me
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0f766e?style=for-the-badge)](https://fabulous-jay-portfolio.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-F59E0B?style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/adegbulu-ayo/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-115e59?style=for-the-badge)](https://www.linkedin.com/in/adegbulu-ayo/)
