@@ -1,9 +1,5 @@
 <img src="./header.svg" width="100%" alt="Emmanuel A. Adegbulu (Fabulous), Full Stack Engineer" />
 
-<p align="center">
-  <a href="https://emmanuel-links.vercel.app/api/go/portfolio"><img src="https://img.shields.io/badge/Portfolio-0f766e?style=for-the-badge" alt="Portfolio" /></a>
-  <a href="https://emmanuel-links.vercel.app/api/go/linkedin"><img src="https://img.shields.io/badge/LinkedIn-115e59?style=for-the-badge" alt="LinkedIn" /></a>
-</p>
 
 I am Emmanuel A. Adegbulu, known online as Fabulous. I am a full stack software engineer who builds production web applications. I work with React, Next.js and TypeScript on the frontend, and with Laravel and Node.js on the backend.
 
