@@ -1,11 +1,11 @@
-<title id="title">Emmanuel A. Adegbulu, Software Engineer</title>
+<img src="./header.svg" width="100%" alt="Emmanuel A. Adegbulu (Fabulous), Software Engineer" />
 
 <p align="center">
   <a href="https://fabulous-jay-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0f766e?style=for-the-badge" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/adegbulu-ayo/"><img src="https://img.shields.io/badge/LinkedIn-115e59?style=for-the-badge" alt="LinkedIn" /></a>
 </p>
 
-Software engineer with a frontend focus, building production web applications such as role based dashboards, complex workflows and data heavy interfaces. I work comfortably across the stack with Laravel and Node.js.
+I'm Emmanuel A. Adegbulu, known online as Fabulous. I'm a software engineer with a frontend focus, building production web applications such as role based dashboards, complex workflows and data heavy interfaces. I work comfortably across the stack with Laravel and Node.js.
 
 My background is in Applied Geophysics, which is where my interest in data modelling and programming started.
 
@@ -31,12 +31,12 @@ My background is in Applied Geophysics, which is where my interest in data model
 <table width="100%">
   <tr>
     <td width="33%" valign="top">
-      <h4>Verify before building</h4>
-      <p>I check what an API actually returns before building UI around it: valid and invalid IDs, empty responses, missing data and inconsistent fields. That has caught duplicate IDs and mismatched status values before users ever saw them.</p>
+      <h4>Check before building</h4>
+      <p>I verify how things actually behave before I build on them, whether that is an API response, a data shape or a design spec. It keeps surprises out of production.</p>
     </td>
     <td width="33%" valign="top">
       <h4>Keep the interface honest</h4>
-      <p>When the backend can't support something yet, I say so and design around what exists, instead of shipping a screen that looks finished but quietly fails.</p>
+      <p>When something isn't supported yet, I say so and design around what exists, instead of shipping a screen that looks finished but isn't.</p>
     </td>
     <td width="33%" valign="top">
       <h4>Use AI with discipline</h4>
@@ -45,19 +45,19 @@ My background is in Applied Geophysics, which is where my interest in data model
   </tr>
 </table>
 
-<sub>Currently deepening my testing practice with Cypress.</sub>
-
 <br />
 
 ## Tech
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=js%2Cts%2Cphp%2Chtml%2Ccss%2Creact%2Cnextjs%2Credux%2Ctailwind%2Cnodejs%2Claravel%2Cpostgres%2Cmysql%2Cgit%2Cdocker%2Cfigma&theme=dark&perline=16" />
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=js%2Cts%2Cphp%2Chtml%2Ccss%2Creact%2Cnextjs%2Credux%2Ctailwind%2Cnodejs%2Claravel%2Cpostgres%2Cmysql%2Cgit%2Cdocker%2Cfigma&theme=light&perline=16" />
-  <img src="https://skillicons.dev/icons?i=js,ts,php,html,css,react,nextjs,redux,tailwind,nodejs,laravel,postgres,mysql,git,docker,figma&perline=16" width="100%" alt="JavaScript, TypeScript, PHP, HTML, CSS, React, Next.js, Redux, Tailwind, Node.js, Laravel, PostgreSQL, MySQL, Git, Docker and Figma" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=html%2Ccss%2Cjs%2Cts%2Creact%2Cnextjs%2Credux%2Ctailwind%2Cmui%2Cbootstrap%2Cstyledcomponents%2Cgraphql%2Cnodejs%2Cphp%2Claravel%2Cpostgres%2Cmysql%2Cmongodb%2Cgit%2Cdocker%2Cvercel%2Cpostman%2Ccypress%2Cjira%2Cfigma&theme=dark&perline=13" />
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=html%2Ccss%2Cjs%2Cts%2Creact%2Cnextjs%2Credux%2Ctailwind%2Cmui%2Cbootstrap%2Cstyledcomponents%2Cgraphql%2Cnodejs%2Cphp%2Claravel%2Cpostgres%2Cmysql%2Cmongodb%2Cgit%2Cdocker%2Cvercel%2Cpostman%2Ccypress%2Cjira%2Cfigma&theme=light&perline=13" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,mui,bootstrap,styledcomponents,graphql,nodejs,php,laravel,postgres,mysql,mongodb,git,docker,vercel,postman,cypress,jira,figma&perline=13" width="100%" alt="HTML, CSS, JavaScript, TypeScript, React, Next.js, Redux, Tailwind, Material UI, Bootstrap, Styled Components, GraphQL, Node.js, PHP, Laravel, PostgreSQL, MySQL, MongoDB, Git, Docker, Vercel, Postman, Cypress, Jira and Figma" />
 </picture>
 
-<br />
+<sub>Also: ShadCN UI, Chakra UI, Context API, Medusa.js, n8n, REST APIs, Webhooks, CI/CD</sub>
+
+<p>&nbsp;</p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Fabulousjay&layout=compact&langs_count=8&card_width=850&hide_border=true&border_radius=8&custom_title=Most%20Used%20Languages&bg_color=0d1117&title_color=2dd4bf&text_color=c9d1d9" />
