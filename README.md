@@ -1,11 +1,11 @@
-<img src="./header.svg" width="100%" alt="Emmanuel A. Adegbulu (Fabulous), Software Engineer" />
+<img src="./header.svg" width="100%" alt="Emmanuel A. Adegbulu (Fabulous), Full Stack Engineer" />
 
 <p align="center">
-  <a href="https://fabulous-jay-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0f766e?style=for-the-badge" alt="Portfolio" /></a>
+  <a href="https://fabulous-jay-portfolio.vercel.app/?utm_source=github&utm_medium=profile_readme"><img src="https://img.shields.io/badge/Portfolio-0f766e?style=for-the-badge" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/adegbulu-ayo/"><img src="https://img.shields.io/badge/LinkedIn-115e59?style=for-the-badge" alt="LinkedIn" /></a>
 </p>
 
-I'm Emmanuel A. Adegbulu, known online as Fabulous. I'm a software engineer with a frontend focus, building production web applications such as role based dashboards, complex workflows and data heavy interfaces. I work comfortably across the stack with Laravel and Node.js.
+I am Emmanuel A. Adegbulu, known online as Fabulous. I am a full stack software engineer who builds production web applications, from role based dashboards and complex workflows to data heavy interfaces. I work with React, Next.js and TypeScript on the frontend, and with Laravel and Node.js on the backend.
 
 My background is in Applied Geophysics, which is where my interest in data modelling and programming started.
 
@@ -36,7 +36,7 @@ My background is in Applied Geophysics, which is where my interest in data model
     </td>
     <td width="33%" valign="top">
       <h4>Keep the interface honest</h4>
-      <p>When something isn't supported yet, I say so and design around what exists, instead of shipping a screen that looks finished but isn't.</p>
+      <p>When something is not supported yet, I say so and design around what exists, instead of shipping a screen that looks finished but is not.</p>
     </td>
     <td width="33%" valign="top">
       <h4>Use AI with discipline</h4>
@@ -55,7 +55,7 @@ My background is in Applied Geophysics, which is where my interest in data model
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,mui,bootstrap,styledcomponents,graphql,nodejs,php,laravel,postgres,mysql,mongodb,git,docker,vercel,postman,cypress,jira,figma&perline=13" width="100%" alt="HTML, CSS, JavaScript, TypeScript, React, Next.js, Redux, Tailwind, Material UI, Bootstrap, Styled Components, GraphQL, Node.js, PHP, Laravel, PostgreSQL, MySQL, MongoDB, Git, Docker, Vercel, Postman, Cypress, Jira and Figma" />
 </picture>
 
-<sub>Also: ShadCN UI, Chakra UI, Context API, Medusa.js, n8n, REST APIs, Webhooks, CI/CD</sub>
+<sub>Also: ShadCN UI, Chakra UI, Context API, React Query, Axios, Medusa.js, n8n, REST APIs, Webhooks, CI/CD, Agile/Scrum, Unit and Integration Testing</sub>
 
 <p>&nbsp;</p>
 
