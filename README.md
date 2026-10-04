@@ -1,26 +1,15 @@
 <img src="https://capsule-render.vercel.app/api?type=slice&color=0:071a17,100:0f766e&height=200&section=header&text=Ayo%20%28Fabulous%29%20Adegbulu&fontSize=38&fontColor=ffffff&animation=fadeIn&desc=Software%20Engineer&descSize=18&descAlignY=68" width="100%" alt="Ayo (Fabulous) Adegbulu, Software Engineer" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1200&color=2DD4BF&center=true&vCenter=true&width=700&lines=React+%7C+Next.js+%7C+TypeScript;Laravel+%7C+PHP+%7C+Node.js;From+the+frontend+to+the+API" alt="React, Next.js, TypeScript, Laravel, PHP and Node.js" />
-</p>
-
-<p align="center">
   <a href="https://fabulous-jay-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0f766e?style=for-the-badge" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/adegbulu-ayo/"><img src="https://img.shields.io/badge/LinkedIn-115e59?style=for-the-badge" alt="LinkedIn" /></a>
-  <a href="https://github.com/Fabulousjay"><img src="https://img.shields.io/badge/GitHub-071a17?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
 <br />
 
-I'm a software engineer who mostly works on the frontend with React, Next.js and TypeScript, and I'm comfortable on the backend with Laravel, PHP and Node.js. I've been building software professionally since 2021.
+I build production web applications, mostly role based dashboards, complex workflows and data heavy interfaces for financial and operational data. I've been doing it professionally since 2021, with a frontend focus and enough backend experience to work through the API with the people who build it.
 
-I studied Applied Geophysics, but the data modelling and computational side pulled me into programming. Now my problems are web applications instead of subsurface models. Fair trade.
-
-<br />
-
-## What I build
-
-Role based dashboards, complex forms and workflows, financial and operational data, API integrations and data heavy interfaces with tables, filters and analytics. I care about what happens between the API and the screen, because if the backend says one thing and the interface shows another, something is wrong.
+I studied Applied Geophysics before the data modelling side pulled me into programming. Now my problems are web applications instead of subsurface models. Fair trade.
 
 <br />
 
@@ -43,7 +32,6 @@ Role based dashboards, complex forms and workflows, financial and operational da
     <td width="33%" valign="top">
       <h3>Hivedeck</h3>
       <p>No code website builder used by 500+ businesses. During three years at Wazobia Technologies, I designed and built parts of the template engine that lets users customise websites without writing code.</p>
-      <p><sub><b>Template engine, no code tooling</b></sub></p>
     </td>
   </tr>
 </table>
@@ -52,20 +40,20 @@ Role based dashboards, complex forms and workflows, financial and operational da
 
 ## How I work
 
-When I get an API, I check what it actually returns instead of trusting the docs alone. I test valid and invalid IDs, missing data, empty responses and different states before wiring anything into the UI. I'm also spending more time on automated testing, especially Cypress.
+I care about what happens between the API and the screen. When I get an API, I check what it actually returns before building around it: valid and invalid IDs, empty responses, missing data and different states. I'm also spending more time on automated testing, especially Cypress.
 
 <br />
 
 ## Tech
 
 <p>
-  <a href="https://skillicons.dev">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=js,ts,php,html,css,react,nextjs,redux,tailwind,nodejs,laravel,postgres,mysql,git,docker,figma&theme=dark&perline=8" />
-      <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=js,ts,php,html,css,react,nextjs,redux,tailwind,nodejs,laravel,postgres,mysql,git,docker,figma&theme=light&perline=8" />
-      <img src="https://skillicons.dev/icons?i=js,ts,php,html,css,react,nextjs,redux,tailwind,nodejs,laravel,postgres,mysql,git,docker,figma&perline=8" alt="JavaScript, TypeScript, PHP, HTML, CSS, React, Next.js, Redux, Tailwind, Node.js, Laravel, PostgreSQL, MySQL, Git, Docker and Figma" />
-    </picture>
-  </a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=js%2Cts%2Cphp%2Chtml%2Ccss%2Creact%2Cnextjs%2Credux%2Ctailwind%2Cnodejs%2Claravel%2Cpostgres%2Cmysql%2Cgit%2Cdocker%2Cfigma&theme=dark&perline=8" />
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=js%2Cts%2Cphp%2Chtml%2Ccss%2Creact%2Cnextjs%2Credux%2Ctailwind%2Cnodejs%2Claravel%2Cpostgres%2Cmysql%2Cgit%2Cdocker%2Cfigma&theme=light&perline=8" />
+    <img src="https://skillicons.dev/icons?i=js,ts,php,html,css,react,nextjs,redux,tailwind,nodejs,laravel,postgres,mysql,git,docker,figma&perline=8" alt="JavaScript, TypeScript, PHP, HTML, CSS, React, Next.js, Redux, Tailwind, Node.js, Laravel, PostgreSQL, MySQL, Git, Docker and Figma" />
+  </picture>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f766e,100:071a17&height=90&section=footer" width="100%" alt="" />
+
+<img src="https://komarev.com/ghpvc/?username=Fabulousjay&label=&color=0f766e&style=flat" width="1" height="1" alt="" />
