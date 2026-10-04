@@ -54,6 +54,14 @@ I care about what happens between the API and the screen. When I get an API, I c
   </picture>
 </p>
 
+<p>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Fabulousjay&layout=compact&langs_count=6&card_width=320&hide_border=true&border_radius=8&custom_title=Most%20Used%20Languages&bg_color=0d1117&title_color=2dd4bf&text_color=c9d1d9" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Fabulousjay&layout=compact&langs_count=6&card_width=320&hide_border=true&border_radius=8&custom_title=Most%20Used%20Languages&bg_color=ffffff&title_color=0f766e&text_color=24292f" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fabulousjay&layout=compact&langs_count=6&card_width=320&hide_border=true&border_radius=8&custom_title=Most%20Used%20Languages&title_color=0f766e" alt="Most used languages" />
+  </picture>
+</p>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f766e,100:071a17&height=90&section=footer" width="100%" alt="" />
 
 <img src="https://komarev.com/ghpvc/?username=Fabulousjay&label=&color=0f766e&style=flat" width="1" height="1" alt="" />
