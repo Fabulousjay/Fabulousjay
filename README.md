@@ -1,11 +1,11 @@
 <img src="./header.svg" width="100%" alt="Emmanuel A. Adegbulu (Fabulous), Full Stack Engineer" />
 
 <p align="center">
-  <a href="https://fabulous-jay-portfolio.vercel.app/?utm_source=github&utm_medium=profile_readme"><img src="https://img.shields.io/badge/Portfolio-0f766e?style=for-the-badge" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/adegbulu-ayo/"><img src="https://img.shields.io/badge/LinkedIn-115e59?style=for-the-badge" alt="LinkedIn" /></a>
+  <a href="https://emmanuel-links.vercel.app/api/go/portfolio"><img src="https://img.shields.io/badge/Portfolio-0f766e?style=for-the-badge" alt="Portfolio" /></a>
+  <a href="https://emmanuel-links.vercel.app/api/go/linkedin"><img src="https://img.shields.io/badge/LinkedIn-115e59?style=for-the-badge" alt="LinkedIn" /></a>
 </p>
 
-I am Emmanuel A. Adegbulu, known online as Fabulous. I am a full stack software engineer who builds production web applications, from role based dashboards and complex workflows to data heavy interfaces. I work with React, Next.js and TypeScript on the frontend, and with Laravel and Node.js on the backend.
+I am Emmanuel A. Adegbulu, known online as Fabulous. I am a full stack software engineer who builds production web applications. I work with React, Next.js and TypeScript on the frontend, and with Laravel and Node.js on the backend.
 
 My background is in Applied Geophysics, which is where my interest in data modelling and programming started.
 
@@ -19,7 +19,7 @@ My background is in Applied Geophysics, which is where my interest in data model
       <h3>Zenthom</h3>
       <p>Facility maintenance platform. I was the sole frontend engineer and built the HQ, facility manager and customer dashboards from Figma to production, integrating 140+ APIs. That included the service request, invoice and payment flows, with wallet payments and card payments confirmed by webhook.</p>
       <p><sub><b>React, TypeScript, Redux Toolkit, React Query, Tailwind CSS</b></sub></p>
-      <a href="https://www.zenthom.com/"><img src="https://img.shields.io/badge/Visit_Zenthom-0f766e?style=flat-square" alt="Visit Zenthom" /></a>
+      <a href="https://emmanuel-links.vercel.app/api/go/zenthom"><img src="https://img.shields.io/badge/Visit_Zenthom-0f766e?style=flat-square" alt="Visit Zenthom" /></a>
     </td>
   </tr>
 </table>
@@ -65,4 +65,4 @@ My background is in Applied Geophysics, which is where my interest in data model
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fabulousjay&layout=compact&langs_count=8&card_width=850&hide_border=true&border_radius=8&custom_title=Most%20Used%20Languages&title_color=0f766e" width="100%" alt="Most used languages" />
 </picture>
 
-<img src="https://komarev.com/ghpvc/?username=Fabulousjay&label=&color=0f766e&style=flat" width="1" height="1" alt="" />
+<img src="https://emmanuel-links.vercel.app/api/pixel" width="1" height="1" alt="" />
