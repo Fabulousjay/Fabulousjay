@@ -1,4 +1,4 @@
-
+<img src="./header.svg" width="100%" alt="Ayo (Fabulous) Adegbulu, Software Engineer" />
 
 <p align="center">
   <a href="https://fabulous-jay-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0f766e?style=for-the-badge" alt="Portfolio" /></a>
@@ -28,7 +28,24 @@ My background is in Applied Geophysics, which is where my interest in data model
 
 ## How I work
 
-I care about what happens between the API and the screen. When I get an API, I check what it actually returns before building around it: valid and invalid IDs, empty responses, missing data and different states. I'm also spending more time on automated testing, especially Cypress.
+<table width="100%">
+  <tr>
+    <td width="33%" valign="top">
+      <h4>Verify before building</h4>
+      <p>I check what an API actually returns before building UI around it: valid and invalid IDs, empty responses, missing data and inconsistent fields. That has caught duplicate IDs and mismatched status values before users ever saw them.</p>
+    </td>
+    <td width="33%" valign="top">
+      <h4>Keep the interface honest</h4>
+      <p>When the backend can't support something yet, I say so and design around what exists, instead of shipping a screen that looks finished but quietly fails.</p>
+    </td>
+    <td width="33%" valign="top">
+      <h4>Use AI with discipline</h4>
+      <p>I use AI as a second pair of eyes, not an author. I read and understand everything it produces, and I test it against the real system before it ships.</p>
+    </td>
+  </tr>
+</table>
+
+<sub>Currently deepening my testing practice with Cypress.</sub>
 
 <br />
 
