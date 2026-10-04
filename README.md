@@ -1,4 +1,4 @@
-<img src="./header.svg" width="100%" alt="Ayo (Fabulous) Adegbulu, Software Engineer" />
+<title id="title">Emmanuel A. Adegbulu, Software Engineer</title>
 
 <p align="center">
   <a href="https://fabulous-jay-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0f766e?style=for-the-badge" alt="Portfolio" /></a>
